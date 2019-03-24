@@ -1,0 +1,2 @@
+Se ejecutó el comando Listar Cuentas con la siguiente información: 2019/03/23 11:49:44
+Se ejecutó el comando Guardar reporte de operaciones con la siguiente información: 2019/03/23 11:49:50

@@ -1,0 +1,4 @@
+Se ejecutó el comando Listar Cuentas con la siguiente información: 2019/03/23 21:15:06
+Se ejecutó el comando Retirar dinero con la siguiente información: 2019/03/23 21:15:10
+Se ejecutó el comando Ver registro de operaciones con la siguiente información: 2019/03/23 21:15:17
+Se ejecutó el comando Guardar reporte de operaciones con la siguiente información: 2019/03/23 21:15:25
